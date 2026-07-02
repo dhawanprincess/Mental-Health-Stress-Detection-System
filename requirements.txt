@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+nltk
+streamlit
+pip install -r requirements.txt
